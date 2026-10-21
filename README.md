@@ -22,7 +22,6 @@ BrainChat is a free, open, privacy-first messenger. No phone numbers. No emails.
 - [Features](#-features)
 - [Privacy First](#-privacy-first)
 - [Install as an App (PWA)](#-install-as-an-app-pwa)
-- [For New Users](#-for-new-users)
 - [Bots](#-bots)
 - [Browser & Device Support](#-browser--device-support)
 - [Project Structure](#-project-structure)
